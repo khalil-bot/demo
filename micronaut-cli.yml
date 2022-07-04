@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: groovy
+buildTool: maven
+features: [annotation-api, app-name, config-consul, consul, data, data-jpa, discovery-consul, groovy, groovy-application, hibernate-jpa, http-client, jackson-databind, jdbc-hikari, liquibase, logback, maven, netflix-ribbon, netty-server, openapi, postgres, readme, security-annotations, security-oauth2, shade, spock, swagger-ui, testcontainers, tracing-zipkin, yaml]
